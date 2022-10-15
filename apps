@@ -1,0 +1,41 @@
+Help on package django:
+
+NNAAMMEE
+    django
+
+FFIILLEE
+    /home/kunal/Desktop/Final/sitevenv/local/lib/python2.7/site-packages/django/__init__.py
+
+PPAACCKKAAGGEE  CCOONNTTEENNTTSS
+    __main__
+    apps (package)
+    conf (package)
+    contrib (package)
+    core (package)
+    db (package)
+    dispatch (package)
+    forms (package)
+    http (package)
+    middleware (package)
+    shortcuts
+    template (package)
+    templatetags (package)
+    test (package)
+    urls (package)
+    utils (package)
+    views (package)
+
+FFUUNNCCTTIIOONNSS
+    sseettuupp(set_prefix=True)
+        Configure the settings (this happens as a side effect of accessing the
+        first setting), configure logging and populate the app registry.
+        Set the thread-local urlresolvers script prefix if `set_prefix` is True.
+
+DDAATTAA
+    VVEERRSSIIOONN = (1, 10, 1, u'final', 1)
+    ____vveerrssiioonn____ = '1.10.1'
+    uunniiccooddee__lliitteerraallss = _Feature((2, 6, 0, 'alpha', 2), (3, 0, 0, 'alpha', ...
+
+VVEERRSSIIOONN
+    1.10.1
+
